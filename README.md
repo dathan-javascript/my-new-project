@@ -1,6 +1,6 @@
 # my-new-project
 Building AI Course project
-# Trffic Management with AI
+# Traffic Management with AI
 
 Final project for the Building AI course
 
