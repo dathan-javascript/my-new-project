@@ -12,7 +12,7 @@ Predicting the optimum traffic flow for better throughput in a small city using 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-The universal issue of Busy hour traffic management is a tough job for authorities throughout the world
+The universal issue of Busy hour traffic management is a tough job for authorities throughout the world is the prediction of traffic flow and intensity through various inputs, such as traffic in feeder roads, temporal history of traffic through the road for different seasons, historical traffic density data for various times of the day etc.
 
 This is how you make a list, if you need one:
 * problem 1
